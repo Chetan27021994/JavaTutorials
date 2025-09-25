@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 threads/2 threads.iml" filepath="$PROJECT_DIR$/2 threads/2 threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd program/2nd program.iml" filepath="$PROJECT_DIR$/2nd program/2nd program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithmatic exception/Arithmatic exception.iml" filepath="$PROJECT_DIR$/Arithmatic exception/Arithmatic exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java programs.iml" filepath="$PROJECT_DIR$/.idea/Java programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REVERSING A STRING/REVERSING A STRING.iml" filepath="$PROJECT_DIR$/REVERSING A STRING/REVERSING A STRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swapping/Swapping.iml" filepath="$PROJECT_DIR$/Swapping/Swapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/add and remove elements/add and remove elements.iml" filepath="$PROJECT_DIR$/add and remove elements/add and remove elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array sum and avg/array sum and avg.iml" filepath="$PROJECT_DIR$/array sum and avg/array sum and avg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculate area/calculate area.iml" filepath="$PROJECT_DIR$/calculate area/calculate area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/count the vowels/count the vowels.iml" filepath="$PROJECT_DIR$/count the vowels/count the vowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/days/days.iml" filepath="$PROJECT_DIR$/days/days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/days 2/days 2.iml" filepath="$PROJECT_DIR$/days 2/days 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find an element/find an element.iml" filepath="$PROJECT_DIR$/find an element/find an element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frequesncy/frequesncy.iml" filepath="$PROJECT_DIR$/frequesncy/frequesncy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashtag/hashtag.iml" filepath="$PROJECT_DIR$/hashtag/hashtag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello world/hello world.iml" filepath="$PROJECT_DIR$/hello world/hello world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largest/largest.iml" filepath="$PROJECT_DIR$/largest/largest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap/leap.iml" filepath="$PROJECT_DIR$/leap/leap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max array/max array.iml" filepath="$PROJECT_DIR$/max array/max array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min array/min array.iml" filepath="$PROJECT_DIR$/min array/min array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modified race condtion/modified race condtion.iml" filepath="$PROJECT_DIR$/modified race condtion/modified race condtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/name and roll number/name and roll number.iml" filepath="$PROJECT_DIR$/name and roll number/name and roll number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odd even/odd even.iml" filepath="$PROJECT_DIR$/odd even/odd even.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloading/overloading.iml" filepath="$PROJECT_DIR$/overloading/overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phone numbers/phone numbers.iml" filepath="$PROJECT_DIR$/phone numbers/phone numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playable interface/playable interface.iml" filepath="$PROJECT_DIR$/playable interface/playable interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime number/prime number.iml" filepath="$PROJECT_DIR$/prime number/prime number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/race condtion/race condtion.iml" filepath="$PROJECT_DIR$/race condtion/race condtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read a file/read a file.iml" filepath="$PROJECT_DIR$/read a file/read a file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rectangle/rectangle.iml" filepath="$PROJECT_DIR$/rectangle/rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remove hashtag/remove hashtag.iml" filepath="$PROJECT_DIR$/remove hashtag/remove hashtag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse/reverse.iml" filepath="$PROJECT_DIR$/reverse/reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runabble/runabble.iml" filepath="$PROJECT_DIR$/runabble/runabble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runable/runable.iml" filepath="$PROJECT_DIR$/runable/runable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleep/sleep.iml" filepath="$PROJECT_DIR$/sleep/sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table 1/table 1.iml" filepath="$PROJECT_DIR$/table 1/table 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try and catch/try and catch.iml" filepath="$PROJECT_DIR$/try and catch/try and catch.iml" />
+    </modules>
+  </component>
+</project>
